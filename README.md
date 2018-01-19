@@ -1,8 +1,6 @@
 # read maybe?
 wallpaper: http://hnng.moe/f/ZTL
 
-important: http://hnng.moe/f/ZTM
-
 # c prog
 1: http://hnng.moe/f/ZTN
 
