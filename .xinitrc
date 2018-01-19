@@ -1,2 +1,2 @@
 ~/.fehbg &
-exec spectrwm
+exec bspwm
