@@ -3,7 +3,6 @@ wallpaper: http://hnng.moe/f/ZTL
 
 important: http://hnng.moe/f/ZTM
 
-test: https://my.mixtape.moe/ixjfiw.html
 # c prog
 1: http://hnng.moe/f/ZTN
 
