@@ -2,6 +2,8 @@
 wallpaper: http://hnng.moe/f/ZTL
 
 font: https://github.com/Koruri/Koruri
+
+pkgs: http://hnng.moe/f/ZZj
 # c prog
 1: http://hnng.moe/f/ZTN
 
