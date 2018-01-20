@@ -1,6 +1,7 @@
 # read maybe?
 wallpaper: http://hnng.moe/f/ZTL
 
+font: https://github.com/Koruri/Koruri
 # c prog
 1: http://hnng.moe/f/ZTN
 
