@@ -3,6 +3,8 @@ wallpaper: http://hnng.moe/f/ZTL
 
 font: https://github.com/Koruri/Koruri
 
+ufetch: https://github.com/jschx/ufetch
+
 pkgs: http://hnng.moe/f/ZZj
 # c prog
 1: http://hnng.moe/f/ZTN
